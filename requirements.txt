@@ -1,7 +1,7 @@
 streamlit
 PyPDF2
-streamlit==1.28.0
-pypdf==3.16.1
-pandas==2.0.3
-plotly==5.18.0
-numpy==1.24.3
+streamlit
+pypdf
+pandas
+numpy
+plotly
